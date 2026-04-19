@@ -1,3 +1,12 @@
+<!--
+  This file is the DESIGN SOURCE for the auxfirst org-page README.
+  The published version lives at:
+    https://github.com/auxfirst/.github/blob/main/profile/README.md
+  and renders on:
+    https://github.com/auxfirst
+  Edit both files in sync.
+-->
+
 # Agentic User Experience (AUX)
 
 > Patterns, heuristics, and trust systems for AI products.
@@ -54,7 +63,7 @@ The spec format ([`agent-spec.schema.yaml`](../schemas/agent-spec.schema.yaml)) 
 
 ## For product & design
 
-Use the **[10 AUX Heuristics](../repos/aux-frameworks/frameworks/aux-heuristics)** and the **[Trust Architecture](../repos/aux-frameworks/frameworks/trust-architecture)** to diagnose, plan, and review. Both are editable YAML — fork, extend, submit a PR.
+Use the **[10 AUX Heuristics](../schemas/aux-heuristics.yaml)** and the **[Trust Architecture](../schemas/trust-architecture.yaml)** to diagnose, plan, and review. Both are editable YAML — fork, extend, submit a PR.
 
 ## For analysts & researchers
 
